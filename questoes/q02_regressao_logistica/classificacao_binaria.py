@@ -127,6 +127,7 @@ def classificacao_binaria():
     print("Pesos:", modelo.linear.weight.data)
     print("Bias:", modelo.linear.bias.data)
 
+#.
 
 class RegressaoLogistica(nn.Module):
 
