@@ -6,3 +6,4 @@ venv/
 outputs/**/*.png
 outputs/**/*.jpg
 !outputs/**/.gitkeep
+data/
